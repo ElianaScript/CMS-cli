@@ -2,7 +2,7 @@
 A content management system.
 
 ## Description
-# This is an application in which you update your employee roster, roles and departments in your company. You are able to update an employee's role, add roles, add departments, add an employee, and view all categories listed as well.
+ This is an application in which you update your employee roster, roles and departments in your company. You are able to update an employee's role, add roles, add departments, add an employee, and view all categories listed as well.
 ## Installation 
 Install any version of Node 23 or higher, and !REQUIRED! npm packages, inquirer, and pg.
 ## Usage
